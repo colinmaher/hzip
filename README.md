@@ -1,1 +1,1 @@
-##A Huffman compression utility written in Smalltalk.##
+### A Huffman compression utility written in Smalltalk. ###
